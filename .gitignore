@@ -1,0 +1,7 @@
+*.out
+*.swp
+data/
+img/
+*.png
+.ipynb_checkpoints/
+__pycache__/
