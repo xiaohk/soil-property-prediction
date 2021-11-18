@@ -1,7 +1,7 @@
 *.out
 *.swp
-data/
 img/
+*.npz
 *.png
 .ipynb_checkpoints/
 __pycache__/
